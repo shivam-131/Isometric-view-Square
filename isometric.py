@@ -43,4 +43,5 @@ pyautogui.dragRel(0,a,duration=0.25)
 pyautogui.click(centre_x,centre_y)
 pyautogui.doubleClick(x+delta_x,y+delta_y+a)
 pyautogui.dragRel(delta_x,-delta_y,duration=0.25)
+#This is done inorder to learn git.
 
